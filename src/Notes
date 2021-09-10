@@ -1,0 +1,10 @@
+public interface FunctionalInterfaces {
+
+//    a functional interface is an interface that has a single abstract method
+
+    public abstract void greet(String name);
+
+}
+
+Lambdas provide shorter ways of implementing functional interfaces in Java
+
